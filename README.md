@@ -29,7 +29,7 @@
 | **[GitCard](https://github.com/Rifvik/GitCard)** | Client-side GitHub profile stats card generator with 5 themes, language charts & `@2x` PNG export | `HTML` `CSS` `JS` | [Live Demo](https://gitcard-eight.vercel.app/?u=Rifvik) · [Repo](https://github.com/Rifvik/GitCard) |
 | **[SAQI](https://github.com/Rifvik/saqi)** | Salt-smart desert irrigation tool for UAE/Gulf farms — FAO-56/29 engine, 60-day salt forecast, GIS & Gemini AI | `JS` `Leaflet` `Gemini AI` | [Live Demo](https://saqi-gamma.vercel.app) · [Repo](https://github.com/Rifvik/saqi) |
 | **[PowerMonitor](https://github.com/Rifvik/PowerMonitor)** | Modern hardware telemetry dashboard with exact sensor polling, dynamic TDP detection & electricity cost tracking | `C#` | [Repo](https://github.com/Rifvik/PowerMonitor) |
-| **[CryptoPulse](https://github.com/Rifvik/cryptopulse)** | Real-time crypto price tracker via Binance WebSocket — sub-second updates, 300+ coins & sparkline charts | `JavaScript` `WebSocket` | [Repo](https://github.com/Rifvik/cryptopulse) |
+| **[CryptoPulse](https://github.com/Rifvik/cryptopulse)** | Real-time crypto price tracker via Binance WebSocket — sub-second updates, 300+ coins & sparkline charts | `JavaScript` `WebSocket` | [Live Demo](https://cryptopulse-delta.vercel.app) · [Repo](https://github.com/Rifvik/cryptopulse) |
 | **[Stock Portfolio Tracker](https://github.com/Rifvik/stock-portfolio-tracker)** | Cross-platform desktop portfolio tracker across US, India (NSE/BSE) & Singapore (SGX) markets | `Python` `PySide6` | [Repo](https://github.com/Rifvik/stock-portfolio-tracker) |
 
 <details>
@@ -39,9 +39,10 @@
 - **[GitCard](https://gitcard-eight.vercel.app/?u=Rifvik)** — Zero-backend GitHub stats card generator featuring Dark, Light, Ocean, Aurora, and Carbon themes, language byte aggregation, shareable `?u=` links, and client-side PNG export via `html2canvas`.
 - **[SAQI](https://saqi-gamma.vercel.app)** — Precision agriculture decision-support web app built for arid-region salinity management with FAO-56/FAO-29 modeling, interactive Leaflet GIS maps, offline QR/voice workflows, and Gemini AI guidance.
 - **[PowerMonitor](https://github.com/Rifvik/PowerMonitor)** — Desktop telemetry dashboard focused on accurate power draw monitoring, dynamic TDP detection, and live electricity cost estimation.
-- **[CryptoPulse](https://github.com/Rifvik/cryptopulse)** — Live WebSocket streaming tracker for 300+ cryptocurrencies with real-time sparklines.
+- **[CryptoPulse](https://cryptopulse-delta.vercel.app)** — Live WebSocket streaming tracker for 300+ cryptocurrencies with real-time sparklines ([Repo](https://github.com/Rifvik/cryptopulse)).
+- **[GiriDhara](https://giridhara.vercel.app)** — Smart flash flood & landslide early warning dashboard ([Repo](https://github.com/Rifvik/giridhara)).
 - **[Stock Portfolio Tracker](https://github.com/Rifvik/stock-portfolio-tracker)** — Multi-market desktop app powered by Yahoo Finance and PySide6.
-- **More Utilities &amp; Experiments**: [downloads-organizer](https://github.com/Rifvik/downloads-organizer) (`Python`) · [gpu-bench-app](https://github.com/Rifvik/gpu-bench-app) (`Python`) · [giridhara](https://github.com/Rifvik/giridhara) (`JavaScript`) · [map-explorer-app](https://github.com/Rifvik/map-explorer-app) (`JavaScript`) · [flappy-bird](https://github.com/Rifvik/flappy-bird) (`JavaScript`)
+- **More Utilities &amp; Web Apps**: [Map Explorer](https://map-explorer-app-alpha.vercel.app) ([Repo](https://github.com/Rifvik/map-explorer-app)) · [Flappy Bird](https://flappy-bird-nu-virid.vercel.app) ([Repo](https://github.com/Rifvik/flappy-bird)) · [downloads-organizer](https://github.com/Rifvik/downloads-organizer) (`Python`) · [gpu-bench-app](https://github.com/Rifvik/gpu-bench-app) (`Python`)
 
 </details>
 
